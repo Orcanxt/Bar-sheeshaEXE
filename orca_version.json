@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.1.0/BarSheeshaPOS.exe",
-  "notes": "Shift, cash drawer and Z reporting; order edit + action log; configurable payment modes; HTML/PDF sales report.",
+  "version": "1.1.1",
+  "url": "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.1.1/BarSheeshaPOS.exe",
+  "notes": "POS top bar realigned; Bill No / Date moved to the bill panel; cart column sorting disabled so items stay in the order they were added.",
   "mandatory": false
 }
