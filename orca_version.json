@@ -1,6 +1,6 @@
 {
-  "version": "1.3.1",
-  "url": "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.3.1/BarSheeshaPOS.exe",
-  "notes": "Settings are now shared across counters (company info, currency/VAT, discount, order tickets, invoice numbering, modules, email/backup schedule) with per-counter overrides; privilege changes reach signed-in users within a minute; the Employee F11 picker is a privilege and is off for waiters; software updates download once per venue and are shared to the other counters over the local network.",
+  "version": "1.3.2",
+  "url": "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.3.2/BarSheeshaPOS.exe",
+  "notes": "Fixes the LAN update relay from v1.3.1: a counter now shares the build it is running, shortly after startup, so a venue downloads the update once and every other till installs it from the local database. Includes all of v1.3.1 - venue-wide shared settings with per-counter overrides, live privilege changes, POS button privileges and the Employee (F11) picker privilege.",
   "mandatory": false
 }
