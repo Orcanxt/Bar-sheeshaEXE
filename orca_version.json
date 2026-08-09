@@ -1,6 +1,6 @@
 {
-  "version": "1.3.2",
-  "url": "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.3.2/BarSheeshaPOS.exe",
-  "notes": "Fixes the LAN update relay from v1.3.1: a counter now shares the build it is running, shortly after startup, so a venue downloads the update once and every other till installs it from the local database. Includes all of v1.3.1 - venue-wide shared settings with per-counter overrides, live privilege changes, POS button privileges and the Employee (F11) picker privilege.",
+  "version": "1.3.3",
+  "url": "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.3.3/BarSheeshaPOS.exe",
+  "notes": "Keeps a counter responsive when it loses the network: the venue-settings and privilege refresh no longer blocks the till while the server is unreachable. Includes everything from v1.3.1 and v1.3.2 - venue-wide shared settings with per-counter overrides, live privilege changes, POS button privileges, the Employee (F11) picker privilege, and the local-network update relay.",
   "mandatory": false
 }
