@@ -1,6 +1,6 @@
 {
-  "version": "1.3.4",
-  "url": "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.3.4/BarSheeshaPOS.exe",
-  "notes": "Order List now lists a fired order once, under Unpaid Bill, for the full amount owed (it used to appear on both the OT and Unpaid tabs with different amounts); parked takeaways show as unpaid bills too. Picking a table clears the TAKEAWAY tick, and switching an empty table to takeaway frees that table. New Merged column shows which tables were combined into a bill, on unpaid and paid rows.",
+  "version": "1.3.5",
+  "url": "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.3.5/BarSheeshaPOS.exe",
+  "notes": "Back Office changes now reach every counter within a minute, with no restart. Menu items, discount schemes, employees, customers and tables used to need the POS reopened while settings, modules and privileges updated live - same page, two behaviours. Rebuilds only happen when something actually changed and never while a dialog is open, a chosen discount scheme stays chosen, and a counter never loses which of its tables are occupied.",
   "mandatory": false
 }
