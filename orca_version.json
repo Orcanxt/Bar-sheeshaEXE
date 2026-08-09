@@ -1,6 +1,6 @@
 {
-  "version": "1.3.5",
-  "url": "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.3.5/BarSheeshaPOS.exe",
-  "notes": "Back Office changes now reach every counter within a minute, with no restart. Menu items, discount schemes, employees, customers and tables used to need the POS reopened while settings, modules and privileges updated live - same page, two behaviours. Rebuilds only happen when something actually changed and never while a dialog is open, a chosen discount scheme stays chosen, and a counter never loses which of its tables are occupied.",
+  "version": "1.3.6",
+  "url": "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.3.6/BarSheeshaPOS.exe",
+  "notes": "Reserved tables now stick. Marking a table Reserved or Cleaning was never saved anywhere - it reverted to Available at the next login and the other counters never saw it. Table status is now stored, restored at login, and shared across counters within a minute. A table with a real order turns Occupied rather than staying reserved, so the floor map cannot hide a live bill.",
   "mandatory": false
 }
