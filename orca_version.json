@@ -1,6 +1,6 @@
 {
-  "version": "1.3.7",
-  "url": "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.3.7/BarSheeshaPOS.exe",
-  "notes": "Day End is now gated by the user privilege. The Exit/DayEnd button is hidden from any role that does not have the Day End Process privilege, and it appears or disappears within a minute of the privilege being changed on the server - no logout needed. If the handler is reached any other way it refuses and names the role instead of showing a plain exit prompt, which previously made a revoked privilege look identical to no gating at all. Roles without the privilege still leave the POS via Logout or the window close button.",
+  "version": "1.3.8",
+  "url": "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.3.8/BarSheeshaPOS.exe",
+  "notes": "Currency fix: the currency chosen in Back Office > Country & Currency no longer reverts to QAR when the app is reopened. Payment, NFC card, purchase order and report screens now show the venue's own currency instead of a fixed QAR, and report totals rows work for every currency. New installs create the default Admin login with PIN 0000.",
   "mandatory": false
 }
