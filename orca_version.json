@@ -1,6 +1,6 @@
 {
-  "version": "1.3.9",
-  "url": "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.3.9/BarSheeshaPOS.exe",
-  "notes": "Product window (F10) now has a search box to find and edit existing products, and the F10 key opens it. Split Bill now actually settles the bill: each person pays their share by Cash, Card or Online and the bill is saved and the table freed when the last share is paid. A counter that cannot reach the server shows Try again / Change server address instead of crashing.",
-  "mandatory": false
+    "version":  "1.4.0",
+    "url":  "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.4.0/BarSheeshaPOS.exe",
+    "notes":  "License activation: each PC now needs an Orca activation key. On first start after this update, copy the Hardware ID shown on screen and send it to Orca POS support to receive your key. Updates marked as required now download and install automatically.",
+    "mandatory":  true
 }
