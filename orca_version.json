@@ -1,6 +1,6 @@
 {
     "version":  "1.4.0",
     "url":  "https://github.com/Orcanxt/Bar-sheeshaEXE/releases/download/v1.4.0/BarSheeshaPOS.exe",
-    "notes":  "License activation: each PC now needs an Orca activation key. On first start after this update, copy the Hardware ID shown on screen and send it to Orca POS support to receive your key. Updates marked as required now download and install automatically.",
+    "notes":  "REQUIRED UPDATE - INSTALL NOW. Go to Settings -\u003e Updates (or Back Office -\u003e Software Update), click Check, then Install. The app restarts by itself in about a minute. This version adds license activation: after the update, copy the Hardware ID shown on screen and send it to Orca POS support to receive your activation key.",
     "mandatory":  true
 }
